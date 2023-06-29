@@ -1,7 +1,7 @@
 # DATA Visualization Dashboard on 2018 Flight Data
-![](media\dashboard.png)
+![](media/dashboard.png)
 
-Airline Company Codes (in order of frequency for this dataset)
+Airline Company Codes :
 
 WN -- Southwest Airlines Co.
 
@@ -36,7 +36,7 @@ VX -- Virgin America
 - Most tickets sold by Southwest Airlines in 2018. Most Expensive ticket was 
 PDX to TPA with amount 994.00
 
--Highest sales in terms of price was made by Delta Air Lines Inc. with total of 47,59,67,188.73 followed by Southwest Airlines Co. and United Air Lines Inc.
+- Highest sales in terms of price was made by Delta Air Lines Inc. with total of 47,59,67,188.73 followed by Southwest Airlines Co. and United Air Lines Inc.
 
 - Average Ticket Price of Hawaiian Airlines Inc. tickets were highest and Frontier Airlines Inc. were lowest.
 
@@ -54,4 +54,4 @@ PDX to TPA with amount 994.00
   
 - Most visited destination were North America(Lax,Vegas), Europe(DEN,MCO,SEA) and Asia(PHL).
 
-![](media\atlanta.png)
+![](media/atlanta.png)
