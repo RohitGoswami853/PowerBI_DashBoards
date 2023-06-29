@@ -1,5 +1,5 @@
 # DATA Visualization Dashboard on 2018 Flight Data
-![](media\DashBoard)
+![](media\dashboard.png)
 
 Airline Company Codes (in order of frequency for this dataset)
 
@@ -54,4 +54,4 @@ PDX to TPA with amount 994.00
   
 - Most visited destination were North America(Lax,Vegas), Europe(DEN,MCO,SEA) and Asia(PHL).
 
-![](media\DashBoard)
+![](media\atlanta.png)
