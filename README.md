@@ -1,4 +1,4 @@
-# [Click Here: SuperStore Product Analysis Report](https://github.com/RohitGoswami853/PowerBI_DashBoards/tree/2018-Flight-DashBoard)
+# [Click Here: SuperStore Product Analysis Report](https://github.com/RohitGoswami853/PowerBI_DashBoards/tree/SuperStore-Product-Analysis-Report)
 
 ![](media/1.png)
 
